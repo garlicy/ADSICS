@@ -7,3 +7,4 @@ ADSICS is a surveillance program that enables power distribution companies to de
 
 # Poster
 xfun::embed_file("Final_Poster_SDMAY22_38.pdf")
+[![ADS_ICS](Final_Poster_SDMAY22_38.jpg)](Final_Poster_SDMAY22_38.pdf)
